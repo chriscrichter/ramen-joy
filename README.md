@@ -5,11 +5,11 @@ Ramen lover's paradise.
 
 Ramen Joy is an app for lovers of ramen. The app provides information on ramen, how to make ramen, where to find the best ramen in your area and who to eat it with.
 
-<img src="images/ramenjoy.png" width="600" height="350">
+<img src="client/src/images/ramenjoy.png" width="600" height="350">
 
-<img src="images/ramenjoyrestaurants.png" width="600" height="350">
+<img src="client/src/images/ramenjoyrestaurants.png" width="600" height="350">
 
-<img src="images/ramenjoyvideos.png" width="600" height="350">
+<img src="client/src/images/ramenjoyvideos.png" width="600" height="350">
 
 
 ## User Stories
